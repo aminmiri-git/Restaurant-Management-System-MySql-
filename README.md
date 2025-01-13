@@ -15,7 +15,7 @@ A simple Restaurant management System with visual studio C#  ( With MySQL data b
 6. Delete any row from any table
 
 
-# EXE FILE LOCATION :       Restaurant\Restaurant\New folder\Restaurant\Restaurant\bin\Release\Restaurant.exe
+# EXE FILE LOCATION :       New folder\Restaurant\bin\Release\Restaurant.exe
 
 
 
